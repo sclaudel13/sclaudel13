@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sclaudel13
+- 👋 Hi, I’m Claudel
 - 👀 I’m interested in Business and Data analytics
 - 🌱 I’m currently learning Business Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Data Science Project
