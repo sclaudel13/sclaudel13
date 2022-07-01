@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claudel
-- 👀 I’m interested in Business and Data analytics
+- 👀 I’m interested in Business Strategy and Data science
 - 🌱 I’m currently learning Business Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Data Science Project
 <!---
